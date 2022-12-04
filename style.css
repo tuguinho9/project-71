@@ -1,0 +1,18 @@
+.filme_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.filme_head i {
+    float: right;
+}
+.conquistas_texto span {
+   color: orange;
+}
+.novidade {
+ margin-bottom: 20px;
+}
+#contato iframe {
+    width: 100%
+}
